@@ -16,9 +16,8 @@ The system includes:
 🌐 Interactive Web Application using Streamlit
 
 HUMAN VOICE RECOGNITION/
-│
+
 ├── app.py
-│
 ├── models/
 │   ├── kmeans.pkl
 │   ├── pca.pkl
@@ -27,10 +26,10 @@ HUMAN VOICE RECOGNITION/
 │   ├── svm_20.pkl
 │   └── top_20_features.pkl
 │
-├── human.ipynb          # EDA
-├── human2.ipynb         # Models with SMOTE
-├── human3.ipynb         # Models without SMOTE
-├── cluster.ipynb        # Clustering
+├── human.ipynb          
+├── human2.ipynb         
+├── human3.ipynb         
+├── cluster.ipynb        
 │
 ├── vocal_gender_features_cleaned.csv
 ├── X_top20.csv
