@@ -1,18 +1,14 @@
-Human Voice Classification & Clustering System
-Project Overview:
+🎙️ Human Voice Classification & Clustering System
+📌 Project Overview
 
 This project develops a complete Machine Learning pipeline to classify and cluster human voice profiles using pre-extracted acoustic features.
 
 The system includes:
 
 📊 Exploratory Data Analysis (EDA)
-
 🎯 Feature Selection (Top 20 Important Features)
-
 🤖 Supervised Learning (Multiple Model Comparison)
-
 🧠 Unsupervised Learning (K-Means Clustering)
-
 🌐 Interactive Web Application using Streamlit
 
 ## 📂 Project Structure
@@ -62,11 +58,8 @@ Selected for deployment in Streamlit app
 Clustering
 
 Applied K-Means Clustering
-
 Reduced dimensions using PCA
-
 Evaluated cluster purity
-
 Visualized clusters in 2D space
 
 🛠️ Tech Stack:
