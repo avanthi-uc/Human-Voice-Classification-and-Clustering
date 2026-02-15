@@ -15,27 +15,9 @@ The system includes:
 
 🌐 Interactive Web Application using Streamlit
 
-HUMAN VOICE RECOGNITION/
+## 📂 Project Structure
 
-├── app.py
-├── models/
-│   ├── kmeans.pkl
-│   ├── pca.pkl
-│   ├── scaler_20.pkl
-│   ├── selected_features.pkl
-│   ├── svm_20.pkl
-│   └── top_20_features.pkl
-│
-├── human.ipynb          
-├── human2.ipynb         
-├── human3.ipynb         
-├── cluster.ipynb        
-│
-├── vocal_gender_features_cleaned.csv
-├── X_top20.csv
-├── y.csv
-└── README.md
-
+```bash
 HUMAN VOICE RECOGNITION/
 │
 ├── app.py
@@ -57,27 +39,9 @@ HUMAN VOICE RECOGNITION/
 ├── X_top20.csv
 ├── y.csv
 └── README.md
-HUMAN VOICE RECOGNITION/
-│
-├── app.py
-│
-├── models/
-│   ├── kmeans.pkl
-│   ├── pca.pkl
-│   ├── scaler_20.pkl
-│   ├── selected_features.pkl
-│   ├── svm_20.pkl
-│   └── top_20_features.pkl
-│
-├── human.ipynb          # EDA
-├── human2.ipynb         # Models with SMOTE
-├── human3.ipynb         # Models without SMOTE
-├── cluster.ipynb        # Clustering
-│
-├── vocal_gender_features_cleaned.csv
-├── X_top20.csv
-├── y.csv
-└── README.md
+```
+
+
 Model Performance
 
 The following models were trained and evaluated:
