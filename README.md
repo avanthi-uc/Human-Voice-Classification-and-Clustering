@@ -81,6 +81,4 @@ Matplotlib
 Seaborn
 Streamlit
 
-Author
-Avanthi U C
-Machine Learning Enthusiast
+Author: Avanthi UC
